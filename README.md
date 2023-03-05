@@ -8,8 +8,6 @@ Windows PowerShell allowed me to run the commands needed to add files, organize 
 
 This project allowed to learn basics of Django models, view functions, forms, template, and the Django admin page. I was able to learn the MVT structure of Django web applications. It is also knowns as Model-View-Template.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/cwKJnkxQXww)
 
 # Web Pages
